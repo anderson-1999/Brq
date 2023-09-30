@@ -1,0 +1,18 @@
+.saldo {
+    position: absolute;
+    top: 50%;
+}
+
+.divMain {
+    position: absolute;
+    right: 0;
+    
+}   
+
+.divPopUp {
+    overflow: auto;
+}
+
+.bi-x-circle-fill {
+    height: 50px;
+}

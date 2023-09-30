@@ -1,0 +1,27 @@
+    table{
+    width: 100vw;
+}
+
+thead tr {
+    border-bottom: 1px solid var(--opcional2);
+}
+
+tbody tr {
+    border-bottom: 1px solid var(--opcional2);
+}
+
+tfoot tr {
+    border-bottom: 1px solid var(--opcional2);
+}
+
+tbody tr:hover {
+    background-color: var(--opcional1);
+}
+
+tr:nth-child(even) {
+    background-color: var(--custom2);
+}
+
+.bi-plus-circle-fill {
+    font-size:50px;
+}
